@@ -214,6 +214,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki]
 * Crear un nuevo objeto CTRL + ALT + v
 * Replicar una linea CTRL + d
 * Mostrar la venta de Outline en Intellij View->Tool Windows-> Structure (Alt + 7)
+* Organizar los imports; agrega declaraciones de imports faltantes y elimina las no utilizadas.
   
 ## Autores ✒
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
