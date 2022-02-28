@@ -182,7 +182,9 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki]
 
 &nbsp;
 
-
+##Mockito
+No se pueden realizar simulaciones con Mockito de método privados, estáticos o final
+Solo public o default
 
 
 ## Problemas comunes 😣
@@ -215,6 +217,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki]
 * Replicar una linea CTRL + d
 * Mostrar la venta de Outline en Intellij View->Tool Windows-> Structure (Alt + 7)
 * Organizar los imports; agrega declaraciones de imports faltantes y elimina las no utilizadas.
+* Alt + Shift + Tecla_arriba mueve la lineas o lineas hacia arriba
   
 ## Autores ✒
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
